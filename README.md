@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yasir Arafat
 - 👀 I’m interested in Coding & programming
-- 🌱 I’m currently do a job in Xiowner-Inc (Ceo)
+- 🌱 I’m currently do a job in XiOwner-Inc (Ceo)
 - ⚜️ Member of Bangladesh Scouts
 - 🏫 School: BCPSC
 - 📫 Address: Bogura Bangladesh
