@@ -1,7 +1,7 @@
 ![I am a Programmer & Scout](https://user-images.githubusercontent.com/96917595/152696884-ab29c577-1505-4379-b84f-50872c4ef4a0.gif)
 ### Hi there 👋, My name is YASIR ARAFAT
 
-Skills: HTML/CSS/JAVASCRIPT/BOOTSTRAP/WORDPRESS/PYTHON
+<b>Skills: HTML/CSS/JAVASCRIPT/BOOTSTRAP/WORDPRESS/PYTHON</b>
 
 - 🔭 I’m currently working on XiOwner 
 - 🌱 I’m currently learning Python 
