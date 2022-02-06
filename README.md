@@ -1,13 +1,16 @@
-- 👋 Hi, I’m Yasir Arafat
-- 👀 I’m interested in Coding & programming
-- 🌱 I’m currently do a job in XiOwner-Inc (Ceo)
-- ⚜️ Member of Bangladesh Scouts
-- 🏫 School: BCPSC
-- 📫 Address: Bogura Bangladesh
-- 💻 FACEBOOK: https://www.facebook.com/prodevarafat/
-- 📱 Instagram: https://www.instagram.com/devproarafat/
+### Hi there 👋, My name is YASIR ARAFAT
+![I am a Programmer & Scout](https://user-images.githubusercontent.com/96917595/152696330-cda5a3a4-ef7b-49d6-bb2e-a5ac0e82113f.gif)
 
-<!---
-proarafat/proarafat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Skills: HTML/CSS/JAVASCRIPT/BOOTSTRAP/WORDPRESS/PYTHON
+
+- 🔭 I’m currently working on XiOwner 
+- 🌱 I’m currently learning Python 
+- 💬 Ask me about My Details 
+- 📫 How to reach me: Bogura,Bangladesh 
+- 😄 Pronouns: Programmer 
+- ⚡ Fun fact: Always Smile  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/proarafat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/prodevarafat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/devproarafat//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](arafat.xiowner.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/F7cA7BnW5V)  
+
