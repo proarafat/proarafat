@@ -9,7 +9,7 @@ Skills: HTML/CSS/JAVASCRIPT/BOOTSTRAP/WORDPRESS/PYTHON
 - 📫 How to reach me: Bogura,Bangladesh 
 - 😄 Pronouns: Programmer 
 - ⚡ Fun fact: Always Smile  
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=proarafat)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/proarafat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/prodevarafat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/devproarafat//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](arafat.xiowner.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/F7cA7BnW5V)  
 
