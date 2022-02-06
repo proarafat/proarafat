@@ -1,5 +1,6 @@
 ### Hi there 👋, My name is YASIR ARAFAT
-![I am a Programmer & Scout](https://user-images.githubusercontent.com/96917595/152696330-cda5a3a4-ef7b-49d6-bb2e-a5ac0e82113f.gif)
+#### I am a Programmer & Scout
+![I am a Programmer & Scout](https://user-images.githubusercontent.com/96917595/152696884-ab29c577-1505-4379-b84f-50872c4ef4a0.gif)
 
 
 Skills: HTML/CSS/JAVASCRIPT/BOOTSTRAP/WORDPRESS/PYTHON
