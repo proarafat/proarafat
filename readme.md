@@ -1,6 +1,6 @@
 ![I am a Programmer & Scout](https://user-images.githubusercontent.com/96917595/152844994-7ce725ed-a1ab-404d-aba9-d4f8deb57481.gif)
 ## Hi there 👋, My name is YASIR ARAFAT
-<img align="right">![Profile View Counter](https://komarev.com/ghpvc/?username=proarafat)</img>
+
 
 <img align="right" src="https://user-images.githubusercontent.com/96917595/153999700-d4d968db-f3d6-4e27-b1a9-a21264e36eab.png" alt="img">
 
@@ -18,7 +18,8 @@
 - 💬 Ask me about My Details 
 - 📫 How to reach me: Bogura,Bangladesh 
 - 😄 Pronouns: Programmer 
-- ⚡ Fun fact: Always Smile
+ 
+ - ![Profile View Counter](https://komarev.com/ghpvc/?username=proarafat)
 
 
 
