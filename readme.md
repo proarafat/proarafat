@@ -1,5 +1,6 @@
-![I am a Programmer & Scout](https://user-images.githubusercontent.com/96917595/152844994-7ce725ed-a1ab-404d-aba9-d4f8deb57481.gif)
-## Hi there 👋, My name is YASIR ARAFAT
+<img src="https://user-images.githubusercontent.com/96917595/152844994-7ce725ed-a1ab-404d-aba9-d4f8deb57481.gif" text align="center"></img>
+</p>
+<h1 align="center"> Hi there 👋, My name is YASIR ARAFAT</h1>
 
 
 <img align="right" src="https://user-images.githubusercontent.com/96917595/153999700-d4d968db-f3d6-4e27-b1a9-a21264e36eab.png" alt="img">
@@ -26,7 +27,7 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/proarafat?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/proarafat/host?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/proarafat?style=social"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/proarafat/host?style=social"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/proarafat?style=social"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/devproarafat?style=social">
 
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/proarafat/host"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/proarafat/surprise-prank-python"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/inmahi/Medical-app"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/inmahi/Minesweeper"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/inmahi/RaffleUp"><br><br>
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/proarafat/host"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/proarafat/surprise-prank-python"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/inmahi/Medical-app"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/inmahi/Minesweeper"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/inmahi/RaffleUp"><br><br><p text align="center">
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
+</p>
