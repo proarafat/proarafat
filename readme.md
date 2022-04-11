@@ -28,6 +28,4 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/proarafat?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/proarafat/host?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/proarafat?style=social"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/proarafat/host?style=social"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/proarafat?style=social"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/devproarafat?style=social">
 
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/proarafat/host"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/proarafat/surprise-prank-python"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/inmahi/Medical-app"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/inmahi/Minesweeper"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/inmahi/RaffleUp"><br><br><p text align="center">
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-</p>
+![Jokes Card](https://readme-jokes.vercel.app/api)</p>
