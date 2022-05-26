@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/96917595/152844994-7ce725ed-a1ab-404d-aba9-d4f8deb57481.gif" text align="center"></img>
-</p>
+
 <h1 align="center"> Hi there 👋, My name is YASIR ARAFAT</h1>
 
 
