@@ -1,4 +1,4 @@
-# Hi, I'm [Yasir Arafat]!
+# Hi, I'm Yasir Arafat!
 
 👋 Welcome to my GitHub profile! I'm a passionate cyber security student from Bangladesh, enthusiastic about learning and securing digital landscapes.
 
@@ -11,8 +11,8 @@
 - Contributing to open-source security projects
 
 ## 📫 Let's Connect
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yasirarafating)
-- Facebook: [Your Facebook Profile](https://facebook.com/devproarafat)
+- [LinkedIn Profile](https://linkedin.com/in/yasirarafating)
+- [Facebook Profile](https://facebook.com/devproarafat)
 
 Feel free to explore my repositories and reach out for collaboration or questions!
 
